@@ -12,3 +12,5 @@ C:\Users\yasin\OneDrive\Masaüstü\Yazılımcı Yetiştirme Kampı - Engin Demir
 C:\Users\yasin\OneDrive\Masaüstü\Yazılımcı Yetiştirme Kampı - Engin Demiroğ\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\yasin\OneDrive\Masaüstü\Yazılımcı Yetiştirme Kampı - Engin Demiroğ\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\yasin\OneDrive\Masaüstü\Yazılımcı Yetiştirme Kampı - Engin Demiroğ\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Yazılımcı Yetiştirme Kampı - Engin Demiroğ\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\yasin\OneDrive\Masaüstü\Yazılımcı Yetiştirme Kampı - Engin Demiroğ\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
